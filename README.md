@@ -38,7 +38,7 @@
 ---
 
 ## 👋 About Me  
-Hey there! I'm [Your Name], a dynamic professional with a Master’s in Engineering Management and a PMP certification. My expertise lies in project and product strategy, Agile methodologies, and data-driven decision-making. With a strong foundation in engineering and management, I thrive on bridging the gap between technology and business to create impactful solutions.
+Hey there! I'm Shilpi Dey, a dynamic professional with a Master’s in Engineering Management and a PMP certification. My expertise lies in project and product strategy, Agile methodologies, and data-driven decision-making. With a strong foundation in engineering and management, I thrive on bridging the gap between technology and business to create impactful solutions.
 
 I have a keen interest in AI-driven innovations and sustainable technology solutions, and I enjoy tackling complex challenges through structured problem-solving. My work includes AI-powered sustainable packaging and intelligent interview simulations, where I apply user experience design, product roadmaps, and business strategy to drive meaningful outcomes.
 
