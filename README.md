@@ -119,72 +119,9 @@ Passionate about innovation and continuous learning, I’m always eager to colla
 
 ## 📫 Contact  
 📧 Email: shilpi.dey01@yahoo.com  
-🌐 LinkedIn: [linkedin.com/in/yourprofile](#)  
+🌐 LinkedIn: https://www.linkedin.com/in/linkshilpidey-connect/ 
 💼 Portfolio: [yourportfolio.com](#)  
   
 
----
-
-## 💼 Work Experience  
-- **IT Program & Product Manager** - [Company Name] *(20XX - Present)*  
-- **Project Manager - AI & Sustainability** - [Company Name] *(20XX - 20XX)*  
-
----
-
-## 📌 Featured Projects  
-
-### 🎯 AI-Powered Interview Simulation Platform  
-**Objective:** Develop an AI-driven platform to help job seekers improve interview skills through **speech recognition, machine learning, and real-time feedback**.  
-
-🔗 **[View Case Study](#)** | 🎨 **[UI/UX Prototypes](#)** | 📌 **[Roadmap & OKRs](#)**  
-
----
-
-### 🌱 AI-Driven Sustainable Packaging for Semiconductors  
-**Objective:** Introduce AI-powered **sustainable packaging solutions** to optimize material selection, reduce environmental impact, and ensure high performance.  
-
-🔗 **[View Case Study](#)** | 🎨 **[UX Research & Prototypes](#)** | 📌 **[NPI Roadmap](#)**  
-
----
-
-## 📊 Case Studies  
-- **AI Interview Platform**: 📄 **[Read More](#)**  
-- **Sustainable Semiconductor Packaging**: 📄 **[Read More](#)**  
-
----
-
-## 🎨 UI/UX Mockups & Prototypes  
-- **Interview Simulation - Mockups & User Flow**: 🎨 **[View](#)**  
-- **Sustainable Packaging - Wireframes & Designs**: 🎨 **[View](#)**  
-
----
-
-## 📌 User Story Mapping  
-- **Interview Simulation User Stories**: 📜 **[View](#)**  
-- **Semiconductor Packaging User Flow**: 📜 **[View](#)**  
-
----
-
-## 🚀 Product Roadmaps  
-- **Interview Platform Roadmap**: 🗺️ **[View](#)**  
-- **AI-Driven Packaging Roadmap**: 🗺️ **[View](#)**  
-
----
-
-## 📊 OKRs & Product Metrics  
-- **Interview Simulation - Key Metrics & OKRs**: 📊 **[View](#)**  
-- **Sustainable Packaging - Performance & OKRs**: 📊 **[View](#)**  
-
----
-
-## 🎯 Product Releases & Tools  
-- **Interview Platform MVP Release**: 🚀 **[View](#)**  
-- **AI Packaging Solution - NPI Milestones**: 🚀 **[View](#)**  
-
----
-
-## 📫 Contact  
-📧 Email: shilpi.dey01@yahoo.com  
-🌐 LinkedIn: [linkedin.com/in/yourprofile](#)  
-💼 Portfolio: [yourportfolio.com](#)  
+ 
 
