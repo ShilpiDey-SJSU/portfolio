@@ -1,24 +1,4 @@
-# 🚀 Shilpi Dey - Product & Project Management Portfolio  
-
-## 📌 Index  
-
-📂 **[About Me](#about-me)**  
-📂 **[Work Experience](#work-experience)**  
-📂 **[Featured Projects](#featured-projects)**  
-   - [AI-Powered Interview Simulation](#ai-powered-interview-simulation-platform)  
-   - [AI-Driven Sustainable Packaging](#ai-driven-sustainable-packaging-for-semiconductors)  
-📂 **[Case Studies](#case-studies)**  
-📂 **[UI/UX Mockups & Prototypes](#uiux-mockups--prototypes)**  
-📂 **[User Story Mapping](#user-story-mapping)**  
-📂 **[Product Roadmaps](#product-roadmaps)**  
-📂 **[OKRs & Product Metrics](#okrs--product-metrics)**  
-📂 **[Product Releases & Tools](#product-releases--tools)**  
-📂 **[Contact](#contact)**  
-
----
-
-## 👋 About Me  
-# 🚀 Shilpi Dey - Product & Project Management Portfolio  
+ # 🚀 Shilpi Dey - Product & Project Management Portfolio  
 
 ## 📌 Index  
 
@@ -65,7 +45,79 @@ Passionate about innovation and continuous learning, I’m always eager to colla
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects & Case Studies
+
+### 🧠 InterVantage - AI Simulation Interview
+An AI-powered interview simulation platform designed to help job seekers improve their skills through real-time feedback.
+
+🔹 **Key Contributions:**
+- Developed a **Project Charter** and **Project Management Plan**.
+- Designed a **theoretical AI framework** with speech recognition and feedback mechanisms.
+- Conducted **feasibility studies** on AI technology adoption.
+
+🔗 [📖 View Case Study](InterVantage-Interview-Simulation/case-study.md) | [📍 Roadmap](InterVantage-Interview-Simulation/roadmap.md) | [🎯 OKRs](InterVantage-Interview-Simulation/okr.md)
+
+---
+
+### 📊 Early Professionals Advancement Bootcamp - Economic Feasibility Analysis
+A feasibility analysis assessing the viability of an online learning platform for recent graduates.
+
+🔹 **Key Contributions:**
+- Conducted **financial feasibility analysis** using NPV, IRR, and Cost-Benefit Analysis.
+- Built a **dynamic Excel model** for profitability analysis.
+- Compared platform development strategies.
+
+🔗 [📖 View Case Study](Early-Professionals-Bootcamp/case-study.md) | [📍 Roadmap](Early-Professionals-Bootcamp/roadmap.md) | [🎯 OKRs](Early-Professionals-Bootcamp/okr.md)
+
+---
+
+### 🌱 AI-Driven Sustainable Packaging Solution for the Semiconductor Industry
+A study exploring AI-driven material selection for **sustainable semiconductor packaging**.
+
+🔹 **Key Contributions:**
+- Developed an **NPI framework** integrating AI for material optimization.
+- Conducted **life cycle cost analysis** to assess feasibility.
+- Evaluated **sustainable materials** for semiconductor packaging.
+
+🔗 [📖 View Case Study](Sustainable-Packaging-NPI/case-study.md) | [📍 Roadmap](Sustainable-Packaging-NPI/roadmap.md) | [🎯 OKRs](Sustainable-Packaging-NPI/okr.md)
+
+---
+
+### ✂️ Enhancing Salon Appointment Scheduling Efficiency - A Six Sigma Approach
+A **Six Sigma DMAIC** project focused on optimizing a salon’s scheduling system to reduce wait times.
+
+🔹 **Key Contributions:**
+- Conducted **process analysis** using Six Sigma DMAIC methodology.
+- Implemented **statistical analysis (ANOVA, correlation)**.
+- Proposed **dynamic online scheduling, automated reminders, and staffing solutions**.
+
+🔗 [📖 View Case Study](Salon-Scheduling-SixSigma/case-study.md) | [📍 Roadmap](Salon-Scheduling-SixSigma/roadmap.md) | [🎯 OKRs](Salon-Scheduling-SixSigma/okr.md)
+
+---
+
+## 📍 Product Roadmap Across Projects
+
+| Phase        | InterVantage - AI Simulation | Early Professionals Bootcamp | Sustainable Packaging | Salon Scheduling |
+|-------------|----------------------------|-----------------------------|------------------------|------------------|
+| **Initiation** | Defined scope & objectives | Feasibility study focus | NPI framework setup | Identified inefficiencies |
+| **Planning**  | Project Charter, risk analysis | Market research & financial modeling | Life cycle cost study | Six Sigma process mapping |
+| **Execution** | AI framework & feasibility studies | Excel model & cost-benefit analysis | AI-driven material selection | Statistical analysis & improvement |
+| **Monitoring** | Iterative refinement & feedback | Validated projections | Regulatory compliance check | Roadmap for implementation |
+| **Closure**   | Final documentation & findings | Feasibility report | AI-based packaging roadmap | Six Sigma-based recommendations |
+
+🔗 [📌 View Full Roadmap](roadmap.md)
+
+---
+
+## 🎯 Objectives & Key Results (OKRs)
+
+📌 [View Full OKRs](okr.md)
+
+
+### **2️⃣ Create Project Folders & Case Study Files**
+
+#### 📂 Folder Structure
+
 
 ### 🎯 AI-Powered Interview Simulation Platform  
 **Objective:** Develop an AI-driven platform to help job seekers improve interview skills through **speech recognition, machine learning, and real-time feedback**.  
